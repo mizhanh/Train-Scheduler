@@ -1,0 +1,22 @@
+.jumbotron h2 {
+    font-family: "Helvetica", sans-serif;
+    color: white; 
+    text-align: center;  
+}
+
+.jumbotron {
+    background-color: #704214;
+}
+
+.container {
+    background-image: url(../images/background2.jpg);
+    padding-top: 0px;
+}
+
+.panel {
+    border: 1px solid;
+    padding-top: 0px;
+}
+
+
+
